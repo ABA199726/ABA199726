@@ -1,16 +1,15 @@
-## Hi there 👋
+# ABA AONDOFA JESSE | JOSTUM | Data Analyst
+📍 Abuja | 🎓 JOSTUM 2023 | 💼 EU Blue Card Germany
 
-<!--
-**ABA199726/ABA199726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+B.Sc Statistics and Computer Science (JOSTUM). Focused on statistical modelling and data analysis. Final year research on Tiv games SHIVA and UYER-VER. Graduated 2023 | CGPA 2.39 | H+ recognised in Germany
 
-Here are some ideas to get you started:
+### Tech Stack
+- Python, Pandas, NumPy, Matplotlib
+- SQL, SPSS, R, Excel, Power BI, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+1. Mathematical Analysis of Tiv Games
+2. Student Performance Tracker
+
+📫 jesseaba6@gmail.com
